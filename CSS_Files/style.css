@@ -194,6 +194,18 @@ font-weight: 500;
     font-size: 18px;
     width: 20px;
 }
+.more{
+    display: flex;
+    justify-content: center;
+}
+.more .git{
+    font-size: 22px;
+    color: #333;
+    font-weight: 500;
+}
+.more .git .gitlink{
+    color: #03a9f4;
+}
 @media (max-width: 1000px){
     .container{
         margin: 10px;
